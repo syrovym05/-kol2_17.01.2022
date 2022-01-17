@@ -1,0 +1,10 @@
+C:\Users\syrovym.05\source\repos\17.01.2022\17.01.2022\bin\Debug\17.01.2022.exe.config
+C:\Users\syrovym.05\source\repos\17.01.2022\17.01.2022\bin\Debug\17.01.2022.exe
+C:\Users\syrovym.05\source\repos\17.01.2022\17.01.2022\bin\Debug\17.01.2022.pdb
+C:\Users\syrovym.05\source\repos\17.01.2022\17.01.2022\obj\Debug\17.01.2022.csprojAssemblyReference.cache
+C:\Users\syrovym.05\source\repos\17.01.2022\17.01.2022\obj\Debug\_17._01._2022.Form1.resources
+C:\Users\syrovym.05\source\repos\17.01.2022\17.01.2022\obj\Debug\_17._01._2022.Properties.Resources.resources
+C:\Users\syrovym.05\source\repos\17.01.2022\17.01.2022\obj\Debug\17.01.2022.csproj.GenerateResource.cache
+C:\Users\syrovym.05\source\repos\17.01.2022\17.01.2022\obj\Debug\17.01.2022.csproj.CoreCompileInputs.cache
+C:\Users\syrovym.05\source\repos\17.01.2022\17.01.2022\obj\Debug\17.01.2022.exe
+C:\Users\syrovym.05\source\repos\17.01.2022\17.01.2022\obj\Debug\17.01.2022.pdb
